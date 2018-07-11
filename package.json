@@ -1,0 +1,22 @@
+{
+  "name": "ngg_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "keywords": [
+    "ngg",
+    "bot"
+  ],
+  "author": "Sil",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.5"
+  }
+}
